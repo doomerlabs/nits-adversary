@@ -6,7 +6,7 @@
 - **Summary:** Detect redundant secret masking before masked recorder
 - **Run:** `slice-1786283196188073000`
 
-_Applied by `adversary train results apply`. Synthetic draft — do not bank summary into `agent/voice.md`._
+_Applied by `doomer train results apply`. Synthetic draft — do not bank summary into `agent/voice.md`._
 
 ## What we want to improve
 
