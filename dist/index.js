@@ -17671,7 +17671,7 @@ var DOMAIN_STOP_WORDS = /* @__PURE__ */ new Set([
 function createApp() {
   const app2 = new Adversary({
     name: "review/nits",
-    version: "0.0.11",
+    version: "0.0.12",
     // Nits are intentionally Severity.Info; surface them rather than drop as noise.
     review: {
       maximumFindings: 8,
